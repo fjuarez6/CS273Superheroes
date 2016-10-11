@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="guesses_list">
+        <item>Name</item>
+        <item>Superpower</item>
+        <item>OneThing</item>
+    </string-array>
+
+</resources>
